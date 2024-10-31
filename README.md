@@ -13,9 +13,9 @@ What are the data types of each column? Are there any missing values?
 ## Basic Descriptive Statistics:
 What are the streams column's mean, median, and standard deviation?
 - The mean, median, and the standard deviation are as follows:
-  mean: 514137424.93907565
-  median: 290530915.0
-  standard deviation: 566856949.0388832
+  mean: 514137424.93907565 \n
+  \n median: 290530915.0 \n
+  \n standard deviation: 566856949.0388832 \n
 
 What is the distribution of released_year and artist_count? Are there any noticeable trends or outliers?
 

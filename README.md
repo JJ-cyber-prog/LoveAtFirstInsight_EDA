@@ -65,4 +65,4 @@ Examine the correlation between streams and musical attributes like bpm, danceab
 Is there a correlation between danceability_% and energy_%? How about valence_% and acousticness_%?
 
 danceability_% and energy_%:
-- Yes, there is a correlation between these two musical attributes. They have a correlation of 0.2. This is a positive correlation, which means as one 
+- Yes, there is a correlation between these two musical attributes. They have a correlation of 0.2. This is a positive correlation, so the relationship between these two attributes are directly proportional. As one attribute increases, so does the other one.

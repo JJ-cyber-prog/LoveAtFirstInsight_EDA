@@ -65,4 +65,32 @@ Examine the correlation between streams and musical attributes like bpm, danceab
 Is there a correlation between danceability_% and energy_%? How about valence_% and acousticness_%?
 
 danceability_% and energy_%:
-- Yes, there is a correlation between these two musical attributes. They have a correlation of 0.2. This is a positive correlation, so the relationship between these two attributes are directly proportional. As one attribute increases, so does the other one.
+- Yes, there is a correlation between these two musical attributes. They correlate 0.2. This is a positive correlation, so the relationship between these attributes is directly proportional. As one attribute increases, so does the other one.
+
+valence_% and acousticness_%:
+- The correlation between the two attributes (valence_% and acousticness_%) is approximately -0.081, indicating a very weak negative correlation. This shows an inverse proportionality relationship between these attributes; as one increases, the other decreases, but the relationship is not strong or significant.
+
+## Platform Popularity:
+How do the numbers of tracks in spotify_playlists, spotify_charts, and apple_playlists compare? 
+- The total count in each platform is as follows:
+
+  Spotify Playlists: 4955719.0 tracks
+  Spotify Charts: 11445.0 tracks
+  Apple Playlist: 64625.0 tracks
+
+  The results show that Spotify Playlists has the most tracks, followed by Apple Playlists and then Spotify Charts.
+
+Which platform seems to favor the most popular tracks?
+- Spotify Playlist favors the most popular tracks, with an average count per track of 5200.124869. This is followed by Apple Playlist, with an average count per track of 67.812172. Next is Apple Charts, with an average count per track of 51.908709. Finally, Spotify Charts, with an average count per track of 12.009444.
+
+## Advanced Analysis:
+Based on the streams data, can you identify any patterns among tracks with the same key or mode (Major vs. Minor)?
+
+Patterns by Key:
+Tracks in the keys of C#, E, and D# have the highest average streams, with values being 6.042802e+08, 5.774972e+08, and 5.530365e+08, respectively. This suggests that tracks in these keys may be popular on average. 
+
+Patterns by Mode:
+Tracks in the Major mode have a higher average stream count of 5.348328e+08 streams. Meanwhile, tracks in the Minor mode experience a lower average stream count of 4.859445e+08 streams. This suggests that the Major mode is more popular on average than the Minor mode.
+
+Do certain genres or artists consistently appear in more playlists or charts? Perform an analysis to compare the most frequently appearing artists in playlists or charts.
+- The Weeknd, Taylor Swift, Ed Sheeran, and Harry Styles dominate the top spots in both Spotify and Apple playlists and charts. Eminem, Arctic Monkeys, and Coldplay have fewer chart appearances but still remain strong in playlists. Avicii, Dr. Dre & Snoop Dogg, and Adele have a more balanced presence across playlists and charts. 

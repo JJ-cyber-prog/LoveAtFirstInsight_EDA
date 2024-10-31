@@ -26,7 +26,7 @@ Artist_Count:
 - The data has a mean artist count of approximately 1.56, with a standard deviation of 0.89. The distribution is heavily turned towards single-artist entries as the 25th and 50th percentiles are 1, and the 75th percentile is 2. The data shows that most works are by a single artist, with fewer involving collaborations of more than two artists. The maximum count recorded is 8, indicating occasional larger collaborations.
 
 Noticeable Trends or Outliers:
-In the case of the Released_Year, outliers were not explicitly listed in the output, but any entries significantly earlier than 2020 may be considered outliers. For the case of Artist_Count, outliers may indicate large group collaborations or tracks with multiple featured artists.
+In the case of the Released_Year, outliers were not explicitly listed in the output, but any entries significantly earlier than 2020 may be considered outliers. Meanwhile, in the case of Artist_Count, outliers may indicate large group collaborations or tracks with multiple featured artists.
 
 ## Top Performers:
 Which track has the highest number of streams? Display the top 5 most streamed tracks.

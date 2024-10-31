@@ -54,4 +54,11 @@ Analyze the trends in the number of tracks released over time. Plot the number o
 
 Does the number of tracks released per month follow any noticeable patterns? Which month sees the most releases?
 
-- 
+- From the graph, January and May have high numbers of track releases compared to other months, with January being the peak month. After January, the graph deviates but spikes in May again. The later months, October to December, also see a gradual increase compared to the summer months, suggesting a potential seasonal trend with high releases at the beginning and towards the end of the year.
+
+## Genre and Music Characteristics:
+Examine the correlation between streams and musical attributes like bpm, danceability_%, and energy_%. Which attributes seem to influence streams the most?
+
+- None of the musical attributes(bpm, danceability_%, and energy_%) strongly influence the number of streams, as all the correlations are close to zero.
+
+

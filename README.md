@@ -62,3 +62,7 @@ Examine the correlation between streams and musical attributes like bpm, danceab
 - None of the musical attributes(bpm, danceability_%, and energy_%) strongly influence the number of streams, as all the correlations are close to zero.
 
 
+Is there a correlation between danceability_% and energy_%? How about valence_% and acousticness_%?
+
+danceability_% and energy_%:
+- Yes, there is a correlation between these two musical attributes. They have a correlation of 0.2. This is a positive correlation, which means as one 

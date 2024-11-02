@@ -1,5 +1,9 @@
-# Python - Exploratory Data Analysis
-This program aims to perform an Exploratory Data Analysis on a dataset containing information about popular tracks on 2023's Most Streamed Spotify Songs. The program will utilize the pandas, matplotlib, and seaborn libraries to analyze, visualize, and interpret the data to extract meaningful insights about 2023's Most Streamed Spotify Songs. 
+# Exploratory Data Analysis on Spotify Popular Tracks of 2023
+
+## Introduction 
+This project explores a dataset of popular Spotify tracks in 2023. The project analyzes trends and insights into music popularity, genres, and other characteristics. We have the following questions to ponder:
+- Which genres, tracks, and artists are most popular?
+- What features contribute to a track's popularity?
 
 # Questions to ponder:
 

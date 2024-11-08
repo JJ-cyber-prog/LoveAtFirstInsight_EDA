@@ -98,3 +98,6 @@ Tracks in the Major mode have a higher average stream count of 5.348328e+08 stre
 
 Do certain genres or artists consistently appear in more playlists or charts? Perform an analysis to compare the most frequently appearing artists in playlists or charts.
 - The Weeknd, Taylor Swift, Ed Sheeran, and Harry Styles dominate the top spots in both Spotify and Apple playlists and charts. Eminem, Arctic Monkeys, and Coldplay have fewer chart appearances but still remain strong in playlists. Avicii, Dr. Dre & Snoop Dogg, and Adele have a more balanced presence across playlists and charts. 
+
+Xoxo,
+EDA Girl
